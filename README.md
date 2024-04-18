@@ -19,7 +19,6 @@ Run the Streamlit app with the command streamlit run app.py.
 Upload your incident data CSV file using the sidebar.
 Explore and analyze the data interactively through the Streamlit dashboard.
 # Data Sources
-The incident data used in this dashboard can be provided as a CSV file. You can use the provided sample dataset or replace it with your own data.
+The incident data used in this dashboard can be provided as a CSV file. 
 
-Contributing
-Contributions and improvements are welcome. Feel free to fork this repository, make changes, and create a pull request. If you encounter any issues, please report them in the repository's issue tracker.
+
